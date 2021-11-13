@@ -1,0 +1,7 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": false,
+    "python.linting.mypyEnabled": false,
+    "python.analysis.cacheFolderPath": "C:\\Users\\upal1\\anaconda3\\envs\\pytorch\\venvlauncher.exe",
+    "python.condaPath": "C:\\Users\\upal1\\anaconda3\\_conda.exe"
+}
